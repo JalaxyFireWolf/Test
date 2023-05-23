@@ -1,0 +1,18 @@
+Requirements
+
+Functional Requirements -
+
+FR01 - 
+Users can create an account that links their details together.
+
+FR02 - 
+	DMs can create scenarios.
+
+FR03 - 
+Users can create characters and the program will generate statistics.
+
+FR04 - 
+	DMs can create NPCs
+
+FR05 -
+	Users can record events.
